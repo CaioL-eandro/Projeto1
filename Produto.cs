@@ -1,4 +1,4 @@
-public class Produto //Deus abencoe nosso estudo e nosso programa
+public class Produto //Deus abencoe nosso estudo e nosso programa 
 {
     public int Codigo { get; set; }
     public string Nome { get; set; }
@@ -16,11 +16,4 @@ public class Produto //Deus abencoe nosso estudo e nosso programa
     {
         Console.WriteLine($"Codigo:{Codigo},Nome:{Nome},Preço:{Preco},Quantidade:{QuantidadeEstoque}");
     }
-    
-
-
-
-
-
-
 }
