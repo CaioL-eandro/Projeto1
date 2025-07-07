@@ -1,6 +1,6 @@
 # projeto1 
 
-Este é meu **projeto CRUD de produtos** em **C#**, desemvolvido como parte do meu **Cronograma Dev Júnior**
+Este é meu **projeto CRUD de produtos** em **C#**, desenvolvido como parte do meu **Cronograma Dev Júnior**
 
 ## Funcionalidade 
 
