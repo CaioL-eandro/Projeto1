@@ -1,0 +1,14 @@
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\bin\Debug\net9.0\ProjetoFinal2.exe
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\bin\Debug\net9.0\ProjetoFinal2.deps.json
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\bin\Debug\net9.0\ProjetoFinal2.runtimeconfig.json
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\bin\Debug\net9.0\ProjetoFinal2.dll
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\bin\Debug\net9.0\ProjetoFinal2.pdb
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\obj\Debug\net9.0\ProjetoFinal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\obj\Debug\net9.0\ProjetoFinal2.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\obj\Debug\net9.0\ProjetoFinal2.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\obj\Debug\net9.0\ProjetoFinal2.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\obj\Debug\net9.0\ProjetoFinal2.dll
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\obj\Debug\net9.0\refint\ProjetoFinal2.dll
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\obj\Debug\net9.0\ProjetoFinal2.pdb
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\obj\Debug\net9.0\ProjetoFinal2.genruntimeconfig.cache
+C:\Users\letic\OneDrive\Desktop\projeto 2\ProjetoFinal2\obj\Debug\net9.0\ref\ProjetoFinal2.dll
